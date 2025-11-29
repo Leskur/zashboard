@@ -2,6 +2,13 @@
 
 # Changelog
 
+## [2.3.1](https://github.com/Zephyruso/zashboard/compare/v2.3.0...v2.3.1) (2025-11-29)
+
+
+### Bug Fixes
+
+* control bar loses focus when the search result is empty ([32c8ca0](https://github.com/Zephyruso/zashboard/commit/32c8ca043b34e9ff122f84b583ed004136e01c17))
+
 ## [2.3.0](https://github.com/Zephyruso/zashboard/compare/v2.2.0...v2.3.0) (2025-11-28)
 
 
